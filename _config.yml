@@ -1,0 +1,28 @@
+name: artenc-test
+favicon: null
+layout_spectrum: 0.544182013720274
+typography_spectrum: 0.9100472449790686
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.20629703509621322
+  lightness: 0.6734059473965317
+  saturation: 0.11177731351926923
+  rhythmicContrast: 0.5724838920868933
+purpose: []
